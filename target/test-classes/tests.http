@@ -1,0 +1,32 @@
+GET localhost:8082/games
+Content-Type: application/json
+
+
+###
+
+POST localhost:8082/games
+Content-Type: application/json
+
+{
+  "name": "redadaavfda"
+}
+
+###
+GET localhost:8082/games/1
+
+###
+
+POST localhost:8082/games/52
+Content-Type: application/json
+
+{
+  "name": "salut"
+}
+
+###
+
+PATCH localhost:8082/games/52/start
+
+###
+
+POST localhost:8082/games/1/players/1/move

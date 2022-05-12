@@ -1,0 +1,6 @@
+fr/epita/assistant/jws/presentation/rest/HelloWorldEndpoint.class
+fr/epita/assistant/jws/data/model/Game.class
+META-INF/panache-archive.marker
+fr/epita/assistant/jws/converter/GameToGameEntity.class
+fr/epita/assistant/jws/domain/service/GameService.class
+fr/epita/assistant/jws/presentation/rest/response/GameListResponseDTO.class
